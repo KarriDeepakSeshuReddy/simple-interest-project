@@ -7,5 +7,4 @@ Run the script in a terminal:
 ```bash
 bash simple-interest.sh
 
-## Author
-Karri Deepak Seshu Reddy
+
